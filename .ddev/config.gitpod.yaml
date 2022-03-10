@@ -1,0 +1,9 @@
+#ddev-gitpod-generated
+router_http_port: 8080
+router_https_port: 8443
+use_dns_when_possible: false
+
+additional_fqdns:
+- 8080-gitpodio-templatephpdrup-8ywuxf1lsb3.ws-eu34.gitpod.io
+- 8025-gitpodio-templatephpdrup-8ywuxf1lsb3.ws-eu34.gitpod.io
+- 8036-gitpodio-templatephpdrup-8ywuxf1lsb3.ws-eu34.gitpod.io

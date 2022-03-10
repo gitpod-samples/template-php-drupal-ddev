@@ -1,6 +1,6 @@
 # A Drupal via DDEV template on Gitpod
 
-GitPod is like VS Code in the browser with everthing you have on the local Mac including Docker
+GitPod is like VS Code in the browser with everything you have on the local Mac including Docker
 
 This is a [Drupal via DDEV](https://github.com/drud/ddev) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
